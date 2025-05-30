@@ -12,7 +12,7 @@ This project explores whether it's possible to forecast the number of liquor (ne
 
 ## Dataset
 
-- Source: [Chicago Data Portal – Liquor Retail Licenses](https://data.cityofchicago.org)
+- Source: [Chicago Data Portal – Liquor Retail Licenses](https://data.cityofchicago.org/Community-Economic-Development/Liquor-Retail/4py5-yxxu/about_data)
 - Time range: 2000–2025
 - Frequency: Monthly aggregation of new licenses issued
 
