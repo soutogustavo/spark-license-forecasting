@@ -33,7 +33,7 @@ Not all patterns can be learned from internal historical data. Understanding whe
 
 ## Notebooks & Artifacts
 
-You can explore the full analysis and model pipeline in the [Databricks notebook]([LINK_HERE](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1577492776175845/1846952264539377/4308252803629806/latest.html)).
+You can explore the full analysis and model pipeline in the [Databricks notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1577492776175845/1846952264539377/4308252803629806/latest.html).
 
 ---
 
